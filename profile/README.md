@@ -1,176 +1,116 @@
-<!-- Aleph Technologies · Organization profile · github.com/alephhq-tech -->
+<!--
+  Aleph Technologies · Official GitHub Organization profile
+  The native banner is preserved. All product artwork uses plush mascots
+  with genuine transparent backgrounds, composited into designed artwork.
+  Profile source: alephhq-tech/.github/profile/README.md
+-->
+
 <div align="center">
+  <a href="https://alephhq.tech" title="Visit Aleph Technologies">
+    <img src="./assets/aleph-banner.jpeg" alt="Aleph — official white wordmark on an electric-blue gradient" width="100%" />
+  </a>
 
-<a href="https://alephhq.tech">
-  <img src="./assets/aleph-banner.jpeg" alt="Aleph — official blue brand banner" width="100%" />
-</a>
+  <br /><br />
+  <sub>INTRODUCING ALEPH TECHNOLOGIES</sub>
 
-<br /><br />
+  <h1>Don't just chat with AI. Get things done.</h1>
 
-### Hello, we're Aleph Technologies.
+  <p><strong>One workspace. Any model. Real work.</strong></p>
 
-# AI that goes beyond the conversation.
+  <p>
+    We're building an AI-native workspace that connects models to your projects,
+    knowledge, and everyday tools—so agents can help turn an idea into an outcome.
+  </p>
 
-**One workspace. Any model. Real work.**
-
-We're building an AI-native platform where intelligent agents connect your ideas with the tools, knowledge, and applications needed to bring them to life.
+  <p>
+    <a href="https://alephhq.tech"><strong>Explore Aleph ↗</strong></a>
+    &nbsp;&nbsp; · &nbsp;&nbsp;
+    <a href="#the-platform"><strong>Meet the platform ↓</strong></a>
+    &nbsp;&nbsp; · &nbsp;&nbsp;
+    <a href="mailto:contact@alephhq.tech"><strong>Talk to us ↗</strong></a>
+  </p>
+</div>
 
 <br />
 
-<a href="https://alephhq.tech"><b>Explore Aleph ↗</b></a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="#the-aleph-ecosystem"><b>Meet the platform</b></a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="mailto:contact@alephhq.tech"><b>Get in touch ↗</b></a>
+<a id="the-platform"></a>
 
-<br /><br />
+## The platform
 
-<sub>AGENTIC AI &nbsp; · &nbsp; DESKTOP + CLOUD &nbsp; · &nbsp; OPEN INTEGRATIONS</sub>
+**Three connected parts. One seamless experience.** From the desktop where work begins, to the cloud where agents run, to the applications that make their actions useful.
 
-</div>
+<p align="center">
+  <img src="./assets/platform-suite.webp" alt="Aleph platform: Desktop provides the native workspace, Cloud provides the shared agent runtime, and Integrations connect MCP servers, APIs, and apps. Featuring pastel 3D plush mascots with their original backgrounds removed." width="100%" />
+</p>
 
----
+<br />
 
-<div align="center">
-  <h2>Meet your new way of working ✨</h2>
-  <p>Less switching between apps. More work getting done.<br/>Aleph brings context, intelligence, and execution into one connected experience.</p>
-</div>
+## Built for continuity, not one-off prompts.
 
-<a id="the-aleph-ecosystem"></a>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="./assets/desktop.webp" alt="Aleph Desktop — smiling blue plush mascot" width="190" /><br/>
-      <h3>Aleph Desktop</h3>
-      <p><b>Your workspace.</b></p>
-      <p>A native home for conversations, projects, files, agent activity, and tools on your computer.</p>
-      <sub>THE EXPERIENCE</sub>
-    </td>
-    <td align="center" valign="top" width="34%">
-      <img src="./assets/cloud.webp" alt="Aleph Cloud — smiling white plush cloud mascot" width="190" /><br/>
-      <h3>Aleph Cloud</h3>
-      <p><b>Your intelligence.</b></p>
-      <p>A unified cloud agent runtime for task orchestration, models, persistent context, knowledge, memory, and skills.</p>
-      <sub>THE ENGINE</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="./assets/integrations.webp" alt="Aleph Integrations — happy mint-green plush mascot" width="190" /><br/>
-      <h3>Integrations</h3>
-      <p><b>Your connections.</b></p>
-      <p>Bring APIs, MCP servers, desktop applications, and professional software into agent workflows.</p>
-      <sub>THE CONNECTIONS</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/memory-spotlight.webp" alt="A transparent lavender plush star introduces project memory, knowledge, and reusable skills: Your work has a story. Aleph is being built to carry project context across conversations, tools, and sessions." width="100%" />
+</p>
 
 <div align="center">
-  <p><strong>One platform. Connected by design.</strong></p>
+  <p><strong>Model freedom &nbsp; · &nbsp; Real tool access &nbsp; · &nbsp; Persistent context &nbsp; · &nbsp; Human oversight</strong></p>
 </div>
 
-<br/>
+<br />
 
-## Built for tasks, not just prompts.
+## Made for work that spans more than one app.
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/memory.webp" alt="A friendly lavender plush star representing memory and knowledge" width="230" />
-    </td>
-    <td valign="middle">
-      <h3>It remembers what matters.</h3>
-      <p>Great work starts with context. We're designing Aleph around persistent project knowledge, reusable skills, history, and memory—so every task can build on what came before.</p>
-      <p><strong>Context is part of the workspace, not an afterthought.</strong></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Context-aware</h3>
-      <p>Keep projects, files, knowledge, and memories connected across work sessions.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Tool-connected</h3>
-      <p>Move beyond generating text to working with APIs, MCP, and native application bridges.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🔀 Model-flexible</h3>
-      <p>Choose cloud or self-hosted models according to the task, not a single provider's limits.</p>
-    </td>
-    <td valign="top">
-      <h3>🛡️ Human-controlled</h3>
-      <p>Keep actions visible, approvals meaningful, and results easy to inspect.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Where imagination meets execution.
-
-We are starting with workflows where agents need genuine project understanding and real tool access.
-
-**⌨️ Software development** — Navigate codebases, assist with engineering tasks, and coordinate development tools.
-
-**📐 Engineering & CAD** — Connect AI agents to professional drafting applications; AutoCAD is an early integration focus, not the boundary of the platform.
-
-**🧩 Professional workflows** — Bring together documents, project knowledge, connected services, and repeatable multi-step tasks.
+| Software & development | Engineering & design | Teams & operations |
+| :-- | :-- | :-- |
+| Move between code, documentation, repositories, and developer tools. | Connect agents to technical workflows and professional applications such as AutoCAD. | Bring files, organizational knowledge, and connected services into repeatable workflows. |
 
 <details>
-<summary><strong>See how Aleph fits together →</strong></summary>
-<br/>
+<summary><strong>Explore the architecture ↗</strong></summary>
+
+<br />
+
+Aleph is designed around **one cloud agent runtime**, a lightweight desktop client, and an extensible bridge to connected tools. Models can change without rebuilding the workspace.
 
 ```mermaid
 flowchart TB
-  U["People & teams"] <--> D["Aleph Desktop<br/>Workspace + local bridge"]
-  D <--> C["Aleph Cloud<br/>Unified Agent Runtime"]
-  C <--> M["Models<br/>Cloud + self-hosted"]
-  C <--> K["Knowledge + memory + skills"]
-  C <--> T["APIs + MCP services"]
-  D <--> A["Desktop apps + local tools"]
-  classDef blue fill:#e8f0ff,color:#17376c,stroke:#8fb8ee;
-  classDef mint fill:#ecfbf3,color:#14543b,stroke:#9cdac0;
-  classDef lilac fill:#f6efff,color:#563576,stroke:#ceb5ec;
-  class U,D,C blue;
-  class A,T mint;
-  class M,K lilac;
+    U["People & teams"] <--> D["Aleph Desktop<br/>Native workspace + device bridge"]
+    D <--> C["Aleph Cloud<br/>Unified AgentEngine"]
+    C <--> M["AI models<br/>Cloud + self-hosted"]
+    C <--> K["Project context<br/>Knowledge + memory + skills"]
+    C <--> T["Connected services<br/>MCP + APIs"]
+    D <--> A["Desktop software<br/>Local tools + professional apps"]
+    classDef blue fill:#e8f0ff,color:#17376c,stroke:#95b8ef;
+    classDef mint fill:#eaf8f2,color:#194a38,stroke:#a6d6bd;
+    classDef lavender fill:#f3edff,color:#553877,stroke:#cbb8ee;
+    class U,D,C blue;
+    class A,T mint;
+    class M,K lavender;
 ```
 
-<sub>High-level product architecture. Implementation and availability will evolve throughout development.</sub>
+<sub>Conceptual architecture. Capabilities and implementation will evolve during development.</sub>
 
 </details>
 
-<br/>
+<br />
 
 ---
 
 <div align="center">
 
-## From intent to execution.
+  <h2>Let's build what's next.</h2>
 
-We're building toward a future where AI is more than a chat window:
-**a reliable collaborator that understands your work and helps you move it forward.**
+  <p>We're here for developers, engineers, and teams who want AI to connect with real-world work.</p>
 
-<br/>
+  <p>
+    <a href="https://alephhq.tech"><strong>Visit alephhq.tech ↗</strong></a>
+    &nbsp;&nbsp; · &nbsp;&nbsp;
+    <a href="mailto:contact@alephhq.tech"><strong>Contact Aleph ↗</strong></a>
+    &nbsp;&nbsp; · &nbsp;&nbsp;
+    <a href="https://github.com/alephhq-tech?tab=repositories"><strong>Our GitHub ↗</strong></a>
+  </p>
 
-**Curious about Aleph? Let's connect.**
+  <sub>Early-stage · Actively building · Some capabilities described are still in development.</sub>
 
-<a href="https://alephhq.tech"><b>alephhq.tech ↗</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:contact@alephhq.tech"><b>contact@alephhq.tech ↗</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/alephhq-tech"><b>GitHub ↗</b></a>
-
-<br/><br/>
-
-<sub>Early-stage · Actively building · Some capabilities shown are in development.</sub>
-
-<br/><br/>
-
-<sub>© 2026 Aleph Technologies. Made for meaningful work.</sub>
+  <br /><br />
+  <sub>© 2026 Aleph Technologies</sub>
 
 </div>
