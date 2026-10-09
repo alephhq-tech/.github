@@ -1,116 +1,94 @@
 <!--
-  Aleph Technologies · Official GitHub Organization profile
-  The native banner is preserved. All product artwork uses plush mascots
-  with genuine transparent backgrounds, composited into designed artwork.
-  Profile source: alephhq-tech/.github/profile/README.md
+  Aleph Technologies — Official GitHub Organization Profile
+  Repository: alephhq-tech/.github
+  The Aleph brand banner is the only visual asset used in this README.
 -->
 
 <div align="center">
-  <a href="https://alephhq.tech" title="Visit Aleph Technologies">
-    <img src="./assets/aleph-banner.jpeg" alt="Aleph — official white wordmark on an electric-blue gradient" width="100%" />
+  <a href="https://alephhq.tech">
+    <img src="./assets/aleph-banner.jpeg" alt="Aleph — official brand banner" width="100%" />
   </a>
 
-  <br /><br />
-  <sub>INTRODUCING ALEPH TECHNOLOGIES</sub>
+  <h1>Aleph Technologies</h1>
 
-  <h1>Don't just chat with AI. Get things done.</h1>
-
-  <p><strong>One workspace. Any model. Real work.</strong></p>
+  <p><strong>Software Engineering · Artificial Intelligence · Intelligent Automation</strong></p>
 
   <p>
-    We're building an AI-native workspace that connects models to your projects,
-    knowledge, and everyday tools—so agents can help turn an idea into an outcome.
+    Building AI-native software that connects intelligence, knowledge,
+    and professional tools to real-world workflows.
   </p>
 
   <p>
-    <a href="https://alephhq.tech"><strong>Explore Aleph ↗</strong></a>
-    &nbsp;&nbsp; · &nbsp;&nbsp;
-    <a href="#the-platform"><strong>Meet the platform ↓</strong></a>
-    &nbsp;&nbsp; · &nbsp;&nbsp;
-    <a href="mailto:contact@alephhq.tech"><strong>Talk to us ↗</strong></a>
+    <a href="https://alephhq.tech">Website</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:contact@alephhq.tech">Contact</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/alephhq-tech?tab=repositories">Repositories</a>
   </p>
 </div>
 
-<br />
+---
 
-<a id="the-platform"></a>
+## About Aleph Technologies
 
-## The platform
+**Aleph Technologies** is a software and artificial intelligence company focused on developing practical AI-powered systems for individuals, engineering teams, and organizations.
 
-**Three connected parts. One seamless experience.** From the desktop where work begins, to the cloud where agents run, to the applications that make their actions useful.
+Our work brings together software engineering, AI agents, and application integrations. Rather than treating AI as a standalone conversational interface, we are building a platform that can understand project context, coordinate tools, and support the execution of complex tasks within existing professional environments.
 
-<p align="center">
-  <img src="./assets/platform-suite.webp" alt="Aleph platform: Desktop provides the native workspace, Cloud provides the shared agent runtime, and Integrations connect MCP servers, APIs, and apps. Featuring pastel 3D plush mascots with their original backgrounds removed." width="100%" />
-</p>
+Our objective is to make advanced AI capabilities **accessible, extensible, and useful in everyday work**, while preserving transparency and user control.
 
-<br />
+## Our Platform
 
-## Built for continuity, not one-off prompts.
+The **Aleph platform** is being developed as an integrated ecosystem with three complementary components:
 
-<p align="center">
-  <img src="./assets/memory-spotlight.webp" alt="A transparent lavender plush star introduces project memory, knowledge, and reusable skills: Your work has a story. Aleph is being built to carry project context across conversations, tools, and sessions." width="100%" />
-</p>
+| Component | Description |
+| :--- | :--- |
+| **Aleph Desktop** | A native workspace for AI interactions, project management, files, task progress, and connections to applications running on a user's computer. |
+| **Aleph Cloud** | A centralized agent runtime responsible for model integration, task orchestration, persistent workspaces, knowledge, memory, and reusable skills. |
+| **Aleph Integrations** | An extensible connectivity layer for APIs, remote MCP servers, and local application bridges, enabling agents to work with external systems and specialized software. |
 
-<div align="center">
-  <p><strong>Model freedom &nbsp; · &nbsp; Real tool access &nbsp; · &nbsp; Persistent context &nbsp; · &nbsp; Human oversight</strong></p>
-</div>
+Together, these components are intended to support a consistent experience across AI models, projects, tools, and execution environments.
 
-<br />
+## Engineering Approach
 
-## Made for work that spans more than one app.
+We are designing Aleph around several technical principles:
 
-| Software & development | Engineering & design | Teams & operations |
-| :-- | :-- | :-- |
-| Move between code, documentation, repositories, and developer tools. | Connect agents to technical workflows and professional applications such as AutoCAD. | Bring files, organizational knowledge, and connected services into repeatable workflows. |
+- **Unified agent runtime.** A shared execution architecture for coordinating models, tools, and multi-step tasks.
+- **Model flexibility.** Support for different AI providers and deployment approaches without tying the platform to a single model.
+- **Open connectivity.** Integrations using established interfaces such as the Model Context Protocol (MCP), APIs, and application-specific bridges.
+- **Persistent project context.** Knowledge, memory, files, and skills that can support ongoing work across sessions.
+- **Human oversight.** Clear tool permissions, reviewable actions, and understandable execution results.
 
-<details>
-<summary><strong>Explore the architecture ↗</strong></summary>
+The architecture separates cloud-based orchestration from device-specific integrations. Remote services can connect directly to the cloud runtime, while local bridges provide controlled access to desktop applications when necessary.
 
-<br />
+## Areas of Application
 
-Aleph is designed around **one cloud agent runtime**, a lightweight desktop client, and an extensible bridge to connected tools. Models can change without rebuilding the workspace.
+We are initially focusing on software development, engineering, and professional workflow automation.
 
-```mermaid
-flowchart TB
-    U["People & teams"] <--> D["Aleph Desktop<br/>Native workspace + device bridge"]
-    D <--> C["Aleph Cloud<br/>Unified AgentEngine"]
-    C <--> M["AI models<br/>Cloud + self-hosted"]
-    C <--> K["Project context<br/>Knowledge + memory + skills"]
-    C <--> T["Connected services<br/>MCP + APIs"]
-    D <--> A["Desktop software<br/>Local tools + professional apps"]
-    classDef blue fill:#e8f0ff,color:#17376c,stroke:#95b8ef;
-    classDef mint fill:#eaf8f2,color:#194a38,stroke:#a6d6bd;
-    classDef lavender fill:#f3edff,color:#553877,stroke:#cbb8ee;
-    class U,D,C blue;
-    class A,T mint;
-    class M,K lavender;
-```
+**Software Development** — Assisting with code, documentation, project workflows, and developer tools.
 
-<sub>Conceptual architecture. Capabilities and implementation will evolve during development.</sub>
+**Engineering and Design** — Connecting AI agents to domain-specific applications and structured technical workflows. AutoCAD is one of our early integration use cases.
 
-</details>
+**Enterprise Workflows** — Coordinating knowledge, files, connected systems, and repeatable processes across professional environments.
 
-<br />
+Our platform is designed to accommodate additional industries and applications as the ecosystem develops.
+
+## Development and Collaboration
+
+Aleph is an **early-stage platform under active development**. The capabilities described here reflect our current architecture and product direction; implementation status may vary across components.
+
+We welcome technical collaboration, research discussions, and conversations with organizations interested in applied AI, intelligent software, and professional automation.
+
+## Contact
+
+**Aleph Technologies**
+
+Website: [alephhq.tech](https://alephhq.tech)  
+Business inquiries: [contact@alephhq.tech](mailto:contact@alephhq.tech)  
+GitHub: [github.com/alephhq-tech](https://github.com/alephhq-tech)
 
 ---
 
 <div align="center">
-
-  <h2>Let's build what's next.</h2>
-
-  <p>We're here for developers, engineers, and teams who want AI to connect with real-world work.</p>
-
-  <p>
-    <a href="https://alephhq.tech"><strong>Visit alephhq.tech ↗</strong></a>
-    &nbsp;&nbsp; · &nbsp;&nbsp;
-    <a href="mailto:contact@alephhq.tech"><strong>Contact Aleph ↗</strong></a>
-    &nbsp;&nbsp; · &nbsp;&nbsp;
-    <a href="https://github.com/alephhq-tech?tab=repositories"><strong>Our GitHub ↗</strong></a>
-  </p>
-
-  <sub>Early-stage · Actively building · Some capabilities described are still in development.</sub>
-
-  <br /><br />
-  <sub>© 2026 Aleph Technologies</sub>
-
+  <sub>© 2026 Aleph Technologies. All rights reserved.</sub>
 </div>
