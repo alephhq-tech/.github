@@ -24,8 +24,6 @@
     &nbsp;·&nbsp;
     <a href="mailto:contact@alephhq.tech"><strong>Contact</strong></a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/alephhq-tech/aleph-platform"><strong>Aleph Platform</strong></a>
-    &nbsp;·&nbsp;
     <a href="https://github.com/alephhq-tech?tab=repositories"><strong>Repositories</strong></a>
   </p>
 </div>
@@ -107,17 +105,6 @@ This technical validation serves as a blueprint for extending agent execution ac
 
 ---
 
-## Key Repositories
-
-| Repository | Description | Visibility |
-| :--- | :--- | :--- |
-| [`aleph-platform`](https://github.com/alephhq-tech/aleph-platform) | The monorepo containing Aleph Desktop (Tauri + React) and Aleph Cloud (Bun + TypeScript). | Private |
-| [`aleph-landing-page`](https://github.com/alephhq-tech/aleph-landing-page) | Official marketing and product landing page for Aleph Desktop. | Private |
-| [`aleph-docs`](https://github.com/alephhq-tech/aleph-docs) | Official documentation portal and developer guides. | Private |
-| [`aleph-omp-bridge`](https://github.com/alephhq-tech/aleph-omp-bridge) | MCP bridge connecting AI assistants to coding environments with isolated workspaces. | Private |
-| [`.github`](https://github.com/alephhq-tech/.github) | Organization profile, brand assets, and community health files. | Public |
-
----
 
 ## Development Stage & Collaboration
 
